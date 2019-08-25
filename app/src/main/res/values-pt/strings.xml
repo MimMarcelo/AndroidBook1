@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bem Vindo!</string>
+    <string name="english">Inglês</string>
+    <string name="french">Francês</string>
+    <string name="german">Alemão</string>
+    <string name="portuguese">Português</string>
+    <string name="spanish">Espanhol</string>
+</resources>

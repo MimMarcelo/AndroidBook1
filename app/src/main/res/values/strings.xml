@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">MIM: Android Book 1</string>
+    <string name="welcome">Welcome!</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="german">German</string>
+    <string name="english">English</string>
+</resources>
